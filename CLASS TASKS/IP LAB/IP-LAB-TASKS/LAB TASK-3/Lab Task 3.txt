@@ -1,0 +1,9 @@
+***String demonstration using character arrays.***
+
+1. Take your name and ID as string input in character arrays.
+2. Perform the followings-
+	a. Display the name and id arrays using for loop.
+	b. Calculate the length of each using strlen function and display the lengths.
+	c. Compare the two using strcmp function and display which one is greater.
+	d. Add id with name using strcat function and display the name array.
+	e. Copy name and id into two separate character arrays using strcpy function and display them.

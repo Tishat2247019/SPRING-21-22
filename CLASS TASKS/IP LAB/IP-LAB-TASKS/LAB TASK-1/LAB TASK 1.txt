@@ -1,0 +1,9 @@
+**Your task is to complete the following code using switch case.
+**your name, id should always be included in the console output. Take a full desktop monitor 
+screenshot of the console output and submit it with the cpp file and turn in.
+
+int a,b;
+    char c;
+    cout<<"***SIMPLE CALCULATOR(+,-,*,/)***";
+    cout<<"\n\nEnter a simple equation(e.g.: 5+3): ";
+    cin>>a>>c>>b;
